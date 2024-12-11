@@ -78,6 +78,7 @@ Los CPD son esenciales para nuestra vida digital, pero también pueden contamina
 ---
 
 ## Referencias  
+- Unidad 4. Protección Medioambiental, IES Rodrigo Caro.
 - Ley 7/2007 de Gestión Integrada de la Calidad Ambiental.  
 - Directiva RoHS (Restriction of Hazardous Substances).  
 - Artículos sobre sostenibilidad en CPD.  
@@ -87,4 +88,4 @@ Los CPD son esenciales para nuestra vida digital, pero también pueden contamina
 ## Autores  
 - **José Luis Fernández y Félix Martín**  
   - José Luis: **Protección medioambiental.**  
-  - Félix Martín: **Seguridad en el trabajo.**
+  - Félix Martín: **Seguridad en el trabajo.** 
